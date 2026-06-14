@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../SmartTemplateFillerQt_V4"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"codium.codeCompletion.enable": true
+	}
+}
